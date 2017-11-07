@@ -1,7 +1,7 @@
 # objeto-persona
 ejemplo de creación de varios objetos mediante la implementación de POO y prototipado en Js
 
-##Consignas del ejercicio
+## Consignas del ejercicio
 Crear una “clase” Persona con los siguientes métodos:
 - <strong>Hablar:</strong> Muestra una imagen de una persona hablando y se muestra un texto al azar una frase de una lista que tiene.
 - <strong>Alegrarse:</strong> Muestra imagen de alegría y emite un sonido y muestra de texto “Estoy algegre”
