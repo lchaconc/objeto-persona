@@ -3,10 +3,10 @@ ejemplo de creación de varios objetos mediante la implementación de POO y prot
 
 ##Consignas del ejercicio
 Crear una “clase” Persona con los siguientes métodos:
-*<strong>Hablar:</strong> Muestra una imagen de una persona hablando y se muestra un texto al azar una frase de una lista que tiene.
-*<strong>Alegrarse:</strong> Muestra imagen de alegría y emite un sonido y muestra de texto “Estoy algegre”
-*<strong>Entristecerse: </strong>Muestra imagen de triste y emite un sonido. Texto: “Estoy triste”
-*<strong>Dormir: </strong>Muestra una cara de durmiendo. Texto: “Estoy durmiendo”
+- <strong>Hablar:</strong> Muestra una imagen de una persona hablando y se muestra un texto al azar una frase de una lista que tiene.
+- <strong>Alegrarse:</strong> Muestra imagen de alegría y emite un sonido y muestra de texto “Estoy algegre”
+- <strong>Entristecerse: </strong>Muestra imagen de triste y emite un sonido. Texto: “Estoy triste”
+- <strong>Dormir: </strong>Muestra una cara de durmiendo. Texto: “Estoy durmiendo”
 1. Estos métodos (comportamientos) deben cambiar cada 10 segundos.
 2. Puede utilizar setInterval para establecer el tiempo
 3. Puede utilizar Math.random para seleccionar el comportamiento que se va a ejecutar.
